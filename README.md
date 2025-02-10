@@ -127,4 +127,6 @@ Contributions to SWC TepTools are welcome!  Feel free to submit pull requests wi
 
 ## License
 
-This project is open-source and available under the [Choose a License](https://choosealicense.com/) (e.g., MIT License).  See the `LICENSE` file for details.
+None
+
+https://metalhead.club/@pephorror
