@@ -1,0 +1,261 @@
+Class,Ship,Hyperspeed,Weight,Volume,Party Slot,Weight Cap,Volume Cap,Max Passengers,Docking Bay,Hangar Bay,Landing Capacity,Tractor Beams
+Super Capital Ship,Executor-class Star Destroyer,1,665000000.0,13300000000.0,,275000.0,4500000.0,38,Yes,Yes,No,Yes
+Super Capital Ship,MC-80 Home One-class Star Cruiser,1,58000000.0,1160000000.0,,60000.0,900000.0,9,Yes,Yes,No,Yes
+Capital Ship,Acclamator-class Assault Ship,1,765000.0,126250000.0,,15000.0,300000.0,"1,67",Yes,Yes,Yes,No
+Capital Ship,Battle Dragon,3,746280.0,14600000.0,,2200.0,25000.0,"1,9",Yes,Yes,No,Yes
+Capital Ship,C-3 Passenger Liner,6,150000.0,4000000.0,,2000.0,5000.0,"1,2",Yes,Yes,No,No
+Capital Ship,Colossal-class Heavy Carrier,2,1900000.0,22500000.0,,262500.0,2250000.0,750,Yes,Yes,No,Yes
+Capital Ship,Darkstar-class Battleship,1,530000.0,11400000.0,,125000.0,250000.0,"3,5",Yes,No,No,Yes
+Capital Ship,Dreadnaught-class Heavy Cruiser,1,350000.0,6000000.0,,3750.0,30000.0,"1,4",Yes,Yes,No,No
+Capital Ship,Imperial I-class Star Destroyer,2,6400000.0,128000000.0,,30000.0,450000.0,"3,8",Yes,Yes,No,Yes
+Capital Ship,Interdictor-class Heavy Cruiser,3,1000000.0,9000000.0,,2400.0,12000.0,280,Yes,Yes,No,No
+Capital Ship,Ithorian Herdship,1,5000000.0,100000000.0,,500.0,10000.0,50,Yes,Yes,No,Yes
+Capital Ship,Kandosii-type Dreadnaught,3,1500000.0,18500000.0,,18000.0,200000.0,1,Yes,Yes,No,Yes
+Capital Ship,Lictor-class Dungeon Ship,2,800000.0,15000000.0,,13000.0,250000.0,300,Yes,No,No,No
+Capital Ship,Lucrehulk-class Battleship,1,80000000.0,2000000000.0,,425000.0,5000000.0,1,Yes,Yes,Yes,Yes
+Capital Ship,M-class Luxury Liner,2,250000.0,4000000.0,,2400.0,23000.0,800,Yes,Yes,Yes,No
+Capital Ship,MC-60 Star Cruiser,2,700000.0,14000000.0,,15000.0,225000.0,"1,6",Yes,Yes,No,Yes
+Capital Ship,MC-80a Star Cruiser,1,4800000.0,100500000.0,,20000.0,310000.0,"2,85",Yes,Yes,No,Yes
+Capital Ship,MC-80b Star Cruiser,3,4350000.0,97000000.0,,7000.0,100000.0,"2,85",Yes,Yes,No,Yes
+Capital Ship,Modular Taskforce Cruiser,2,2200000.0,30000000.0,,325000.0,3000000.0,1,Yes,Yes,No,Yes
+Capital Ship,Prometheus-class Star Craft,2,1234000.0,9300000.0,,4500.0,21000.0,"1,2",Yes,Yes,Yes,Yes
+Capital Ship,Pulsar Battle Cruiser,2,1000000.0,17000000.0,,30000.0,450000.0,4,Yes,Yes,No,Yes
+Capital Ship,Strike-class Medium Cruiser,3,35000.0,850000.0,,3500.0,20000.0,"2,112",Yes,Yes,Yes,Yes
+Capital Ship,Subjugator-class Heavy Cruiser,2,759861.0,148303553.0,,250000.0,1250000.0,"83,35",Yes,Yes,No,Yes
+Capital Ship,Supremacy-class Attack Ship,3,8000000.0,140000000.0,,28000.0,450000.0,"2,5",Yes,No,No,Yes
+Capital Ship,Valor-class Cruiser,2,35000.0,850000.0,,10500.0,30000.0,2,Yes,Yes,Yes,Yes
+Capital Ship,Veltraa-class Cruiser,2,900000.0,7500000.0,,2100.0,13000.0,800,Yes,Yes,Yes,Yes
+Capital Ship,Venator-class Star Destroyer,2,3400000.0,75000000.0,,25000.0,250000.0,"2,5",Yes,Yes,No,No
+Capital Ship,Verpine-class Heavy Cruiser,2,2000000.0,19000000.0,,20000.0,50000.0,950,Yes,Yes,Yes,Yes
+Capital Ship,Victory I-class Star Destroyer,3,1150000.0,23000000.0,,17000.0,250000.0,"1,6",Yes,Yes,No,Yes
+Frigate,Ardent-class Fast Frigate,3,500000.0,2000000.0,,8000.0,20000.0,1,Yes,Yes,Yes,Yes
+Frigate,Arquitens-class Light Cruiser,3,90000.0,1200000.0,,425.0,3850.0,260,Yes,Yes,Yes,No
+Frigate,Belarus-class Medium Carrier,3,40000.0,750000.0,,1500.0,12500.0,"1,2",Yes,Yes,Yes,Yes
+Frigate,Belarus-class Medium Cruiser,3,40000.0,750000.0,,800.0,8500.0,"1,2",No,Yes,Yes,Yes
+Frigate,C-9979 Landing Craft,2,60000.0,1400000.0,,6000.0,30000.0,250,Yes,Yes,Yes,No
+Frigate,Carrack/I-class Light Cruiser,4,136500.0,2500000.0,,2250.0,50000.0,800,No,No,Yes,Yes
+Frigate,Carrack/S-class Light Cruiser,4,136500.0,2500000.0,,2250.0,50000.0,800,No,No,Yes,Yes
+Frigate,Corona-class Frigate,3,285000.0,5000000.0,,11000.0,170000.0,918,Yes,Yes,No,Yes
+Frigate,Crusader XX-777 Prototype Droid Frigate,5,1377.0,9744.0,,300.0,1200.0,30,No,No,Yes,No
+Frigate,EF65 Meridian-class Frigate,4,300000.0,7500000.0,,25000.0,200000.0,400,Yes,Yes,No,No
+Frigate,EF76 Nebulon-B Escort Frigate,2,260000.0,5250000.0,,11000.0,170000.0,500,Yes,No,No,Yes
+Frigate,EF76 Nebulon-B Medical Frigate,2,260000.0,5250000.0,,6000.0,10000.0,500,Yes,No,No,No
+Frigate,Guardian-class Medium Cruiser,3,150000.0,3000000.0,,800.0,15000.0,800,Yes,Yes,No,Yes
+Frigate,Hammerhead-class Cruiser,2,90000.0,1000000.0,,4000.0,10000.0,400,Yes,Yes,Yes,No
+Frigate,Kaloth-class Battlecruiser,2,190000.0,2600000.0,,1000.0,10000.0,"1,392",Yes,No,No,Yes
+Frigate,Lancer-class Frigate,1,42000.0,841000.0,,1000.0,25000.0,550,No,No,Yes,No
+Frigate,Namana-class Light Cruiser,3,80000.0,1000000.0,,3500.0,17000.0,"1,2",Yes,Yes,Yes,Yes
+Frigate,Neutron Star-class Bulk Cruiser,2,325000.0,6500000.0,,1000.0,17000.0,1,No,No,No,Yes
+Frigate,Nova-class Battlecruiser,4,170000.0,4050000.0,,900.0,16000.0,"2,85",Yes,Yes,No,No
+Frigate,Pelta-class Frigate,3,130000.0,2500000.0,,800.0,15000.0,450,Yes,Yes,Yes,Yes
+Frigate,Quasar Fire-class Bulk Cruiser,3,145000.0,2890000.0,,1200.0,600000.0,250,Yes,No,Yes,Yes
+Frigate,Sabaoth Destroyer,3,186500.0,2500000.0,,1700.0,20000.0,2,Yes,Yes,Yes,Yes
+Frigate,Star Galleon-class Frigate,2,60010.0,1250000.0,,60000.0,90000.0,1,No,Yes,Yes,Yes
+Frigate,Tartan-class Patrol Cruiser,2,220000.0,5000000.0,,1600.0,12000.0,327,No,Yes,Yes,No
+Frigate,Ton-Falk-class Escort Carrier,3,40000.0,5000000.0,,2000.0,35000.0,50,Yes,No,No,No
+Corvette,Adz-class Patrol Destroyer,3,20000.0,220000.0,,400.0,3000.0,120,Yes,Yes,Yes,No
+Corvette,Bayonet-class Light Cruiser,4,40000.0,750000.0,,3500.0,8500.0,200,Yes,Yes,Yes,Yes
+Corvette,Braha'tok-class Gunship,2,10000.0,215000.0,,3300.0,2800.0,273,No,Yes,Yes,No
+Corvette,Consular-class Cruiser,3,950.0,4500.0,,1000.0,1550.0,33,No,Yes,Yes,No
+Corvette,CR-70 Corvette,3,12500.0,250000.0,,1000.0,500.0,180,No,Yes,Yes,No
+Corvette,CR-90 Assassin-class Corvette,2,13500.0,275000.0,,2500.0,15000.0,155,Yes,Yes,Yes,Yes
+Corvette,CR-90 Corvette,2,12500.0,250000.0,,1000.0,500.0,160,No,Yes,Yes,No
+Corvette,CR-92 Battle Corvette,5,13200.0,255000.0,,300.0,90.0,30,No,Yes,Yes,No
+Corvette,Crusader-class Corvette,4,15000.0,128000.0,,2000.0,5000.0,80,Yes,Yes,Yes,No
+Corvette,Cumulus-class Corsair,4,9000.0,85000.0,,500.0,1000.0,30,Yes,No,Yes,No
+Corvette,Defender-class Light Corvette,5,25000.0,110000.0,,2500.0,6000.0,55,No,Yes,Yes,No
+Corvette,Discril-class Attack Cruiser,2,10000.0,100000.0,,800.0,2000.0,60,Yes,Yes,Yes,No
+Corvette,DP-20a Gunship,2,8500.0,170000.0,,600.0,300.0,91,No,Yes,Yes,No
+Corvette,DP-20b Gunship,2,14000.0,170000.0,,450.0,100.0,75,No,Yes,Yes,No
+Corvette,DP-20c Gunship,2,14000.0,170000.0,,375.0,75.0,70,No,Yes,Yes,No
+Corvette,Fairwind-class Gunship,3,132500.0,2000000.0,,620.0,2250.0,300,No,No,Yes,Yes
+Corvette,Foray-class Blockade Runner,2,14000.0,250000.0,,500.0,3500.0,350,No,Yes,Yes,No
+Corvette,Fury-class Imperial Interceptor,5,2094.0,20139.0,,800.0,1500.0,15,No,Yes,Yes,No
+Corvette,Gozanti-class Cruiser,3,300.0,2600.0,,75.0,500.0,25,No,Yes,Yes,No
+Corvette,IPV-1 System Patrol Craft,0,11850.0,300000.0,,300.0,200.0,30,No,Yes,Yes,No
+Corvette,KR-4B Luxury Star Cruiser,2,8000.0,180000.0,,500.0,4200.0,100,Yes,Yes,Yes,No
+Corvette,Marauder-class Corvette,1,18000.0,475000.0,,400.0,6000.0,200,Yes,Yes,Yes,Yes
+Corvette,MC-30b Corvette,3,12000.0,300000.0,,1200.0,6000.0,225,Yes,Yes,Yes,No
+Corvette,PB-950 Patrol Boat,3,10000.0,215000.0,,2400.0,4200.0,13,Yes,Yes,Yes,No
+Corvette,Pirate Interceptor Frigate,3,6500.0,44750.0,,1000.0,2000.0,50,No,Yes,Yes,No
+Corvette,Raider-class Missile Corvette,3,12000.0,120000.0,,1000.0,10000.0,34,Yes,Yes,Yes,Yes
+Corvette,Shieldship,1,1000000.0,9000000.0,,20.0,120.0,5,No,No,Yes,No
+Corvette,Sphyrna-class Corvette,4,40000.0,65000.0,,2500.0,8000.0,200,No,Yes,Yes,No
+Corvette,YV-666 Light Freighter,4,13000.0,265000.0,,1400.0,62000.0,25,Yes,Yes,Yes,No
+Heavy Freighter,AA-9 Coruscant Freighter,2,75010.0,200000.0,,75000.0,80000.0,300,No,Yes,Yes,Yes
+Heavy Freighter,Action VI Transport,5,20010.0,60000.0,,20000.0,50000.0,25,No,Yes,Yes,Yes
+Heavy Freighter,BFF-1 Bulk Freighter,4,100010.0,255000.0,,100000.0,135000.0,100,No,Yes,Yes,Yes
+Heavy Freighter,Brayl-class Bulk Freighter,3,85000.0,110000.0,,75000.0,100000.0,78,No,Yes,Yes,Yes
+Heavy Freighter,Class VI Bulk Freighter,3,45010.0,75000.0,,45000.0,20000.0,6,No,No,Yes,No
+Heavy Freighter,CR-20 Troop Carrier,3,900.0,4300.0,,42.0,70.0,61,No,Yes,Yes,No
+Heavy Freighter,CSS-1 Corellian Star Shuttle,3,1300.0,3600.0,,540.0,2550.0,210,No,Yes,Yes,No
+Heavy Freighter,Empress-class Super Freighter,2,51000.0,70000.0,,50000.0,67500.0,13,No,No,Yes,No
+Heavy Freighter,Goji-DF Turtle Tanker,3,50000.0,32000.0,,33333.0,30000.0,15,No,No,Yes,No
+Heavy Freighter,GR-75 Medium Transport,4,70010.0,150000.0,,70000.0,97500.0,1,No,Yes,Yes,Yes
+Heavy Freighter,GRZ-6B Wrecker,4,32.0,625.0,,5.0,30.0,3,No,No,Yes,No
+Heavy Freighter,GS-100 Salvage Ship,4,43000.0,200000.0,,30000.0,60000.0,20,No,Yes,Yes,Yes
+Heavy Freighter,Hardcell-class Transport,4,100000.0,1000000.0,,200000.0,400000.0,"1,207",No,No,Yes,No
+Heavy Freighter,HCT-2001 Dragonboat-class Freighter,4,1400.0,3500.0,,500.0,2200.0,15,No,No,Yes,No
+Heavy Freighter,Ithullan Ore Hauler,2,215979.0,660626.0,,150000.0,200000.0,125,No,No,Yes,Yes
+Heavy Freighter,KRS-1 Ore Hauler,3,125000.0,285000.0,,85000.0,100000.0,75,No,No,Yes,No
+Heavy Freighter,Mammoth-class Heavy Hauler,1,8000000.0,140000000.0,,1000000.0,18500000.0,"2,5",No,No,No,No
+Heavy Freighter,Mobquet Medium Transport,2,70010.0,150000.0,,70000.0,90000.0,80,No,Yes,Yes,Yes
+Heavy Freighter,Modular Conveyor,1,80010.0,200000.0,,80000.0,120000.0,60,No,Yes,Yes,Yes
+Heavy Freighter,Space Master Medium Transport,3,21500.0,28000.0,,19000.0,28000.0,42,No,Yes,Yes,No
+Heavy Freighter,Spacecrawler,2,1305.0,16984.0,,900.0,9900.0,500,Yes,Yes,Yes,Yes
+Heavy Freighter,Theta-class AT-AT Barge,0,4280.0,30000.0,,3550.0,20000.0,111,No,Yes,Yes,No
+Heavy Freighter,W-23 Star Hauler,3,21300.0,42600.0,,15000.0,12000.0,2,No,No,Yes,No
+Heavy Freighter,Xanadu-class Superyacht,4,90000.0,230000.0,,10000.0,5000.0,75,No,Yes,Yes,Yes
+Heavy Freighter,Xiytiar-class Transport,4,23300.0,93000.0,,5000.0,20000.0,22,No,No,No,No
+Heavy Freighter,Y-8 Mining Vessel,2,45000.0,70000.0,,30000.0,55000.0,11,No,No,No,Yes
+Light Freighter,578-R Space Transport,3,220.0,2500.0,,40.0,80.0,13,No,Yes,Yes,No
+Light Freighter,Atlas-class Troop Transport Shuttle,5,90.0,2939.0,,13.0,29.0,40,No,No,Yes,No
+Light Freighter,ATR-6 Assault Transport,6,600.0,2000.0,,20.0,120.0,55,No,No,Yes,No
+Light Freighter,Barloz-class Freighter,4,600.0,5740.0,,120.0,150.0,6,No,Yes,Yes,No
+Light Freighter,Baudo-class Star Yacht,3,220.0,2500.0,,35.0,100.0,9,No,No,Yes,No
+Light Freighter,BR-23 Courier,3,78.0,650.0,,40.0,90.0,42,No,No,Yes,No
+Light Freighter,Class 720 Freighter,5,550.0,5500.0,,135.0,150.0,13,No,No,Yes,No
+Light Freighter,Crescent-X9,5,150.0,500.0,,20.0,40.0,6,No,No,Yes,No
+Light Freighter,Decadence-Class Pleasure Yacht,4,550.0,2700.0,,30.0,22.0,14,No,Yes,Yes,No
+Light Freighter,Delta-class JV-7 Escort Shuttle,5,100.0,2500.0,,18.0,25.0,18,No,No,Yes,No
+Light Freighter,DX-9 Dropship,3,32.0,625.0,,5.0,30.0,33,No,Yes,Yes,No
+Light Freighter,Dynamic-class Freighter,4,485.0,4600.0,,60.0,80.0,8,No,Yes,Yes,No
+Light Freighter,Eta-class Shuttle,4,90.0,720.0,,100.0,120.0,13,No,No,Yes,No
+Light Freighter,G-type Light Shuttle,3,200.0,1500.0,,10.0,30.0,4,No,No,Yes,No
+Light Freighter,Gale-class StarStage Light Freighter,4,450.0,3000.0,,10.0,200.0,8,No,No,Yes,No
+Light Freighter,Gamma Assault Shuttle,1,400.0,3000.0,,5.0,90.0,45,Yes,No,Yes,Yes
+Light Freighter,H-2 Executive Shuttle,5,240.0,1200.0,,15.0,35.0,6,No,No,Yes,No
+Light Freighter,H-type Yacht,3,150.0,2000.0,,6.0,25.0,8,No,No,Yes,No
+Light Freighter,Herald-class Shuttle,3,350.0,725.0,,70.0,120.0,13,No,Yes,Yes,No
+Light Freighter,Horizon-class Star Yacht,6,420.0,3620.0,,100.0,280.0,9,Yes,Yes,Yes,Yes
+Light Freighter,HT-2200 Medium Freighter,4,1344.0,4352.0,,800.0,900.0,10,Yes,No,Yes,No
+Light Freighter,HWK-290 Light Freighter,6,530.0,1200.0,,75.0,10.0,8,No,No,Yes,No
+Light Freighter,Infiltrator-class Star Courier,7,220.0,1000.0,,3.0,5.0,7,No,No,Yes,No
+Light Freighter,J-type 322 Starship,3,200.0,2300.0,,10.0,35.0,15,No,No,Yes,No
+Light Freighter,J-type 327 Starship,3,600.0,3150.0,,40.0,190.0,18,No,No,Yes,No
+Light Freighter,Kom'rk-class Transport,3,425.0,1800.0,,10.0,30.0,25,No,No,Yes,No
+Light Freighter,Lambda-class T-4a Shuttle,6,75.0,1500.0,,80.0,90.0,26,No,No,Yes,No
+Light Freighter,Lethisk-class Armed Freighter,4,600.0,4200.0,,60.0,140.0,13,No,No,Yes,No
+Light Freighter,Ministry-class Orbital Shuttle,0,100.0,1200.0,,25.0,120.0,38,No,No,Yes,No
+Light Freighter,Minstrel-class Space Yacht,2,47200.0,4100.0,,90.0,360.0,112,Yes,No,Yes,Yes
+Light Freighter,Muurian Transport,4,975.0,9000.0,,20.0,55.0,15,No,No,Yes,No
+Light Freighter,Naboo Star Skiff,4,440.0,1700.0,,450.0,12.0,6,No,No,Yes,No
+Light Freighter,Nu-class Attack Shuttle,6,260.0,2300.0,,6.0,50.0,32,No,No,Yes,No
+Light Freighter,Personal Luxury Yacht 3000,5,500.0,3250.0,,100.0,160.0,13,No,No,Yes,No
+Light Freighter,Personal Luxury Yacht 5000,3,1200.0,6000.0,,170.0,800.0,18,No,Yes,Yes,No
+Light Freighter,Rainhawk Transport,3,450.0,1480.0,,15.0,18.0,7,No,No,Yes,No
+Light Freighter,Rho-class Shuttle,5,400.0,3800.0,,2.0,20.0,13,No,No,Yes,No
+Light Freighter,RZ-68 Troop Transport,4,40.0,760.0,,7.0,15.0,25,No,Yes,Yes,No
+Light Freighter,Sentinel-class Landing Craft,6,80.0,1150.0,,180.0,210.0,80,No,Yes,Yes,No
+Light Freighter,Sheathipede-class Transport Shuttle,6,82.0,1650.0,,150.0,180.0,14,No,No,Yes,Yes
+Light Freighter,Simiyiar-class Light Freighter,5,420.0,3200.0,,150.0,900.0,8,No,Yes,Yes,No
+Light Freighter,Spacelane Diner,0,690.0,7000.0,,12.0,75.0,34,No,No,Yes,No
+Light Freighter,Sprint-class Rescue Craft,5,300.0,3100.0,,20.0,50.0,48,No,No,Yes,No
+Light Freighter,Starlight-class Light Freighter,4,550.0,2880.0,,50.0,60.0,5,No,No,Yes,No
+Light Freighter,Starrunner-class Starship,5,410.0,2500.0,,20.0,24.0,7,No,Yes,Yes,No
+Light Freighter,StarSpeeder 3000,8,45.0,825.0,,5.0,45.0,42,No,No,Yes,No
+Light Freighter,Starwind-class Pleasure Yacht,5,650.0,2600.0,,20.0,80.0,15,No,No,Yes,No
+Light Freighter,T-6 Shuttle,5,330.0,1600.0,,5.0,10.0,3,No,No,Yes,No
+Light Freighter,Theta-class T-2c Shuttle,4,67.0,1375.0,,50.0,20.0,21,No,No,Yes,No
+Light Freighter,VCX-100 Light Freighter,6,790.0,6950.0,,21.0,210.0,10,Yes,Yes,Yes,No
+Light Freighter,VCX-820 Escort Freighter,4,355.0,1825.0,,60.0,100.0,13,No,No,Yes,No
+Light Freighter,Warlord Heavy Cruiser,4,400.0,3200.0,,100.0,250.0,13,No,No,Yes,No
+Light Freighter,Wayfarer-class Medium Transport,4,4500.0,3500.0,,220.0,1000.0,16,Yes,Yes,Yes,No
+Light Freighter,XS-800 Light Freighter,3,1025.0,3200.0,,115.0,357.0,10,No,Yes,Yes,No
+Light Freighter,YG-4210,4,300.0,2112.0,,10.0,30.0,14,No,Yes,Yes,No
+Light Freighter,YT-1210,6,530.0,5480.0,,100.0,500.0,6,No,Yes,Yes,No
+Light Freighter,YT-1300,6,400.0,3780.0,,100.0,211.0,17,No,Yes,Yes,No
+Light Freighter,YT-1760,7,350.0,3500.0,,10.0,30.0,10,No,No,Yes,No
+Light Freighter,YT-2000,7,500.0,4060.0,,115.0,360.0,11,No,Yes,Yes,No
+Light Freighter,YT-2400,6,185.0,1050.0,,150.0,467.0,9,No,No,Yes,No
+Light Freighter,YT-510,7,300.0,3159.0,,2.0,5.0,3,No,No,Yes,No
+Light Freighter,YV-929,4,600.0,3000.0,,15.0,40.0,10,No,No,Yes,No
+Light Freighter,Zeta-class Long-Range Shuttle,2,550.0,1225.0,,25.0,480.0,26,No,No,Yes,No
+Gunboat,Aggressor Assault Fighter,4,265.0,5250.0,,20.0,120.0,8,No,No,Yes,Yes
+Gunboat,Auzituck Anti-Slaver Gunship,4,521.0,2013.0,,140.0,30.0,10,No,No,Yes,No
+Gunboat,D5-Mantis Patrol Craft,5,460.0,2000.0,,25.0,50.0,5,No,Yes,Yes,No
+Gunboat,Firespray-class Interceptor,5,105.0,2100.0,,20.0,40.0,6,No,Yes,Yes,Yes
+Gunboat,Flarestar-class Attack Shuttle,3,60.0,400.0,,10.0,40.0,4,No,No,Yes,No
+Gunboat,GAT-12h Skipray Blastboat,4,140.0,1300.0,,6.0,12.0,3,No,No,Yes,No
+Gunboat,JumpMaster 5000,4,50.0,900.0,,15.0,100.0,5,No,No,Yes,No
+Gunboat,Pelagia Duplex Command Assault Gunship,3,300.0,5200.0,,30.0,140.0,11,No,No,Yes,No
+Gunboat,Pursuer-class Enforcement Ship,6,550.0,2880.0,,25.0,480.0,5,No,No,Yes,No
+Gunboat,S40K Phoenix Hawk-class Light Pinnace,4,105.0,2100.0,,10.0,20.0,6,No,No,Yes,No
+Gunboat,Scurrg H-6 Bomber,3,45.0,900.0,,5.0,20.0,5,No,No,Yes,No
+Gunboat,SS-54 Assault Ship,4,535.0,2500.0,,30.0,60.0,10,No,No,Yes,No
+Gunboat,ST-70 “Razor Crest” Assault Ship,5,300.0,4000.0,,40.0,30.0,5,No,Yes,Yes,No
+Gunboat,Tri-Mark VII Interceptor,4,135.0,2300.0,,95.0,215.0,27,No,No,Yes,No
+Gunboat,UT-60D U-Wing Support Craft,5,250.0,1500.0,,30.0,80.0,9,No,No,Yes,No
+Bomber,A/SF-01 B-wing Starfighter,5,70.0,500.0,,,1.0,1,No,No,Yes,No
+Bomber,Alpha-class Xg-1 Star Wing,5,25.0,200.0,,,0.3,1,No,No,Yes,No
+Bomber,ARC-170 Aggressive Recon Fighter,4,38.0,700.0,,,1.0,3,No,No,Yes,No
+Bomber,BTL-S3 Y-wing Starfighter,5,50.0,600.0,,,3.0,2,No,No,Yes,No
+Bomber,C-wing Ugly,3,70.0,500.0,,,2.0,4,No,No,Yes,No
+Bomber,Hetrinar Assault Bomber,0,48.0,800.0,,,0.4,2,No,No,Yes,No
+Bomber,Star Saber XC-01 Starfighter MkII,0,42.0,420.0,,,2.0,1,No,No,Yes,No
+Bomber,TIE/sa Bomber,0,25.0,335.0,,2.0,17.0,1,No,No,Yes,No
+Fighter,A-24 Sleuth,4,50.0,500.0,,2.0,3.0,2,No,No,Yes,No
+Fighter,Alpha-3 Nimbus-class V-wing Starfighter,0,19.0,185.0,,,0.6,1,No,No,Yes,No
+Fighter,Aurek-class Tactical Strikefighter,4,37.0,417.0,,,1.0,1,No,No,Yes,No
+Fighter,Belbullab-22 Starfighter,4,160.0,285.0,,,0.4,1,No,No,Yes,No
+Fighter,BTL-A4 Y-wing Longprobe,5,50.0,600.0,,,3.0,1,No,No,Yes,No
+Fighter,Chir'daki-class Starfighter,3,15.0,210.0,,,1.0,1,No,No,Yes,No
+Fighter,Cloakshape Fighter,0,13.0,250.0,,,0.5,1,No,No,Yes,No
+Fighter,Cloakshape/H Fighter,2,13.0,250.0,,,0.38,1,No,No,Yes,No
+Fighter,Cutlass-9 Patrol Fighter,5,75.0,400.0,,1.0,1.0,1,No,No,Yes,No
+Fighter,Delta-12 Skysprite-class Starfighter,5,68.0,380.0,,,1.0,2,No,No,Yes,No
+Fighter,Delta-7 Aethersprite-class Interceptor,5,70.0,400.0,,,0.03,1,No,No,Yes,No
+Fighter,Droid Tri-Fighter,0,18.0,290.0,,,0.5,1,No,No,Yes,No
+Fighter,Einstar APOSTRO-9,2,20.0,175.0,,100.0,0.5,2,No,No,Yes,No
+Fighter,Eta-2 Actis-class Light Interceptor,4,12.0,300.0,,,0.55,1,No,No,Yes,No
+Fighter,Eta-5 Interceptor,4,15.0,250.0,,,0.6,1,No,No,Yes,No
+Fighter,Fang-class Starfighter,6,51.0,557.0,,,0.03,1,No,No,Yes,No
+Fighter,G-1A Starfighter,6,145.0,1125.0,,,2.0,2,No,No,Yes,No
+Fighter,G-400 Starfighter,3,40.0,800.0,,,1.0,1,No,No,Yes,No
+Fighter,Ginivex-class Starfighter,6,25.0,240.0,,,0.75,2,No,No,Yes,No
+Fighter,HH-87 Starhopper,2,36.0,440.0,,2.0,4.0,1,No,No,Yes,No
+Fighter,I-BEAM Starfighter,0,70.0,500.0,,4.0,10.0,1,No,No,Yes,No
+Fighter,IRD Starfighter,0,20.0,200.0,,,1.0,2,No,No,Yes,No
+Fighter,Liberator-class Starfighter,3,40.0,450.0,,,1.0,1,No,No,Yes,No
+Fighter,Mankvim-814 Light Interceptor,0,20.0,195.0,,1.0,0.5,1,No,No,Yes,No
+Fighter,Miy`Til-class Starfighter,0,37.0,625.0,,,0.02,1,No,No,Yes,No
+Fighter,N-1 Starfighter,4,22.0,400.0,,,1.0,1,No,No,Yes,No
+Fighter,Pinook-class Starfighter,3,37.0,700.0,,,0.0,1,No,No,Yes,No
+Fighter,Pirate Snub Fighter,0,45.0,200.0,,1.0,1.0,1,No,No,Yes,No
+Fighter,R-41 Starchaser,0,24.0,450.0,,,1.0,1,No,No,Yes,No
+Fighter,Raptor-Wasp Starfighter,4,35.0,400.0,,,75,2,No,No,Yes,No
+Fighter,Razor-class Starfighter,5,45.0,550.0,,,2.0,1,No,No,Yes,No
+Fighter,Rihkxyrk Assault Fighter,2,135.0,585.0,,1.0,1.0,1,No,No,Yes,No
+Fighter,RZ-1 A-wing Interceptor,8,17.0,200.0,,,0.3,1,No,No,Yes,No
+Fighter,S-250 Chela-class Starfighter,4,25.0,400.0,,,1.0,1,No,No,Yes,No
+Fighter,Sabaoth Defender,5,30.0,500.0,,,1.0,1,No,No,Yes,No
+Fighter,Scarab-class Droid Starfighter,0,30.0,450.0,,,2.0,1,No,No,Yes,No
+Fighter,Sith Starfighter,0,22.0,210.0,,1.0,1.0,1,No,No,Yes,No
+Fighter,Spirit-Class MSA1,5,30.0,230.0,,,0.4,1,No,No,Yes,No
+Fighter,Star Saber XC-01 Starfighter MkI,0,40.0,400.0,,,2.0,1,No,No,Yes,No
+Fighter,T-65 X-wing Starfighter,6,35.0,600.0,,,2.0,1,No,No,Yes,No
+Fighter,T-wing Interceptor,4,22.0,425.0,,2.0,1.0,1,No,No,Yes,No
+Fighter,TIE-wing Ugly,0,15.0,300.0,,,0.3,1,No,No,Yes,No
+Fighter,TIE/in Interceptor,0,17.0,200.0,,,0.3,1,No,No,Yes,No
+Fighter,TIE/ln Starfighter,0,15.0,300.0,,,0.3,1,No,No,Yes,No
+Fighter,TIE/sr Starfighter,5,17.0,850.0,,,3.0,2,No,No,Yes,No
+Fighter,Toscan 8-Q Starfighter,3,38.0,470.0,,,4.0,1,No,No,Yes,No
+Fighter,V-19 Torrent Starfighter,3,40.0,500.0,,,1.0,1,No,No,Yes,No
+Fighter,VCX-Series Auxiliary Fighter,0,15.0,150.0,,2.0,15.0,2,No,No,Yes,No
+Fighter,Viper-class Starfighter,0,25.0,330.0,,,0.03,1,No,No,Yes,No
+Fighter,Vulture-class Droid Starfighter,0,12.0,250.0,,,,,No,No,Yes,No
+Fighter,X-ceptor Ugly,3,30.0,500.0,,,0.5,1,No,No,Yes,No
+Fighter,Y-TIE Ugly,3,30.0,500.0,,,1.0,2,No,No,Yes,No
+Fighter,Z-95 Headhunter,0,23.0,450.0,,,1.0,1,No,No,Yes,No
+Fighter,Zenuas 33,4,15.0,450.0,,,1.0,1,No,No,Yes,No
+Fighter,Zero-G Spacetrooper Armor Mark I,0,,3.0,,,0.0,1,No,No,Yes,No
+Satellite,Sysat T-20,0,12.0,35.0,,,,,No,No,No,No
+Satellite,Sysat T-24,0,19.0,50.0,,,,,No,No,No,No
+Cargo Container,Cargo Canister,0,,6.0,,,5.0,2,No,No,No,No
+Cargo Container,Class-A Cargo Container,0,4355.0,6005.0,,4350.0,6000.0,4,No,No,No,No
+Cargo Container,Class-A Cargo Container Mk II,0,25050.0,60050.0,,25000.0,60000.0,4,No,No,No,No
+Cargo Container,Class-C Cargo Container,0,10.0,30.0,,9.0,28.0,4,No,No,No,No
+Cargo Container,Class-E Cargo Container,0,20050.0,40050.0,,20000.0,40000.0,4,No,No,No,No
+Cargo Container,Class-I Cargo Container,0,3.0,17.0,,2.0,15.0,2,No,No,No,No
+Cargo Container,Class-J Cargo Container,0,60.0,140.0,,40.0,120.0,2,No,No,No,No
+Cargo Container,Escape Pod,0,10.0,170.0,,,2.0,2,No,No,Yes,No
